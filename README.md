@@ -4,8 +4,7 @@
 
 - Último status de compilação com azerothcore:
   
-[![Build Status](https://github.com/AzerothLegacy/mod-npc-talent-template-ptbr/workflows/core-build/badge.svg?branch=master&event=push)](https://github.com/AzerothLegacy/mod-npc-talent-template-ptbr)
-
+[![core-build](https://github.com/AzerothLegacy/mod-npc-talent-template-ptbr/actions/workflows/core-build.yml/badge.svg)](https://github.com/AzerothLegacy/mod-npc-talent-template-ptbr)
 ## Descrição
 Este mod introduz um NPC que permite aos jogadores aplicar instantaneamente modelos de personagens pré-configurados que equipam, gemam, definem talentos e aplicam glifos para qualquer classe. Ideal para otimização rápida de personagens para várias funções e cenários.
 
