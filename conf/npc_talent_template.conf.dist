@@ -2,44 +2,44 @@
 
 [worldserver]
 
-##########################################
-# Npc Talent Template module configuration
-##########################################
+###########################################
+# Configuração do módulo Npc Talent Template
+############################################
 #
 #    NpcTalentTemplate.EnableResetTalents
-#        Description: Enables Gossip Option to reset talents
-#        Default:     1 - Enabled
-#                     0 - Disabled
+#        Descrição: Habilita a opção para redefinir talentos
+#        Padrão:     1 - Ativado
+#                     0 - Desativado
 #
 
 NpcTalentTemplate.EnableResetTalents = 1
 
 #
 #    NpcTalentTemplate.EnableRemoveAllGlyphs
-#        Description: Enables Gossip Option to Remove All Glyphs
-#        Default:     1 - Enabled
-#                     0 - Disabled
+#        Descrição: Habilita a opção para remover todos os glifos
+#        Padrão:     1 - Ativado
+#                     0 - Desativado
 #
 
 NpcTalentTemplate.EnableRemoveAllGlyphs = 1
 
 #
-#    NpcTalentTemplate.EnableDestroyEquippedGear
-#        Description: Enables Gossip Option to Destroy Equipped Gear
-#        Default:     1 - Enabled
-#                     0 - Disabled
+#    NpcTalentTemplate.AtivadoestroyEquippedGear
+#        Descrição: Habilita a opção para destruir equipamentos equipados
+#        Padrão:     1 - Ativado
+#                     0 - Desativado
 #
 
-NpcTalentTemplate.EnableDestroyEquippedGear = 1
+NpcTalentTemplate.AtivadoestroyEquippedGear = 1
 
 #
 #    NpcTalentTemplate.AllianceMount
 #    NpcTalentTemplate.HordeMount
-#        Description:
-#        Default:     51412 - BigBattleBear
+#        Descrição:
+#        Padrão:      51412 - BigBattleBear
 #                     43688 - AmaniWarBear
 #                     19902 - SwiftZulianTiger
-#                     0 - Disable
+#                     0 - Desativar
 #
 
 NpcTalentTemplate.AllianceMount = 51412
