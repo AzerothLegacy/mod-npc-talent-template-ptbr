@@ -3,7 +3,7 @@
 
 void AddSC_npc_talent_template();
 
-void Addmod_npc_talent_templateScripts()
+void Addmod_npc_talent_template_ptbrScripts()
 {
     AddSC_npc_talent_template();
 }
